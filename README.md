@@ -1,4 +1,4 @@
-![Financial Spiral Banner]https://github.com/Mathiew1618/hello-git/blob/main/fibonacci_sequence_stock_market.jpg?raw=true
+![Financial Spiral Banner](fibonacci_sequence_stock_market.jpg
 
 
 # Hello Git 👋  
