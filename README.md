@@ -1,4 +1,4 @@
-![Financial Spiral Banner](images/nautilus-market.jpg)
+![Financial Spiral Banner]https://github.com/Mathiew1618/hello-git/blob/main/fibonacci_sequence_stock_market.jpg?raw=true
 
 
 # Hello Git 👋  
