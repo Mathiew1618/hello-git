@@ -1,5 +1,6 @@
 ![Financial Spiral Banner](images/nautilus-market.jpg)
 
+
 # Hello Git 👋  
 Welcome to my first Git repository — a small but meaningful milestone in a much larger journey.
 
