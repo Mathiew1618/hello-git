@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="fibonacci_sequence_stock_market_2.jpg" alt="Financial Spiral Banner" width="100%">
+  <img src="fibonacci_sequence_stock_market_2.jpg" alt="Financial Spiral Banner" width="50%">
 </p>
 
 # Hello Git 👋  
