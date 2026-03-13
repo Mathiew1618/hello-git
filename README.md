@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="fibonacci_sequence_stock_market_2.jpg" alt="Financial Spiral Banner" width="50%">
-</p>
+fibonacci_sequence_stock_market.jpg"
 
 # Hello Git 👋  
 Welcome to my first Git repository — a small but meaningful milestone in a much larger journey.
