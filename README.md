@@ -1,4 +1,4 @@
-![Financial Spiral Banner](fibonacci_sequence_stock_market.jpg)
+![Financial Spiral Banner]("fibonacci_sequence_stock_market_2.jpg")
 
 # Hello Git 👋  
 Welcome to my first Git repository — a small but meaningful milestone in a much larger journey.
